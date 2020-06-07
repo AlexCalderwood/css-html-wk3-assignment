@@ -1,0 +1,26 @@
+.navbar-brand{
+  font-size: 300%;;
+}
+
+.navbar-collapse a:hover {
+  font-weight: bold;
+}
+
+
+.menu-section {
+  background-color : #F66748;
+  margin-bottom: 20px;
+}
+
+.menu-description {
+  height: 700px;
+}
+
+.menu-section h2 {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.menu-section a {
+  color : black;
+}
